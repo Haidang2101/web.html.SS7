@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    display: inline-block;
+}
+
+.pic1 {
+    max-width: 2%;
+    height: auto;
+}
+
+.pic2 {
+    width: 300;
+    height: 300;
+}
+
+.t1 {
+    opacity: 0.6;
+}
+
+h4 {
+    opacity: 0.85;
+}
+
+p {
+    line-height: 0.5
+}
